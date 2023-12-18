@@ -1,2 +1,5 @@
 # CST-305-Project8
-CST-305 Project 8 submission
+Installation instructions:
+- Download or clone the repository.
+- Navigate to the CST-305-Project8 directory.
+- Run `python3 <filename>` in the terminal, where `<filename>` is any of the included `.py` files.
